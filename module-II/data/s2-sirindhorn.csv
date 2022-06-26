@@ -1,4 +1,4 @@
-date,water_area_raw (km2),non_water_area_raw (km2),cloud_area_raw (km2),water_area_cloud_corrected (km2)
+date,water_area_clustering,non_water_area_clustering,cloud_area,water_area
 1/4/19,73.19314035,261.0455751,52.32474212,113.9247292
 1/9/19,192.6272377,192.1073239,1.55319662,192.9735914
 1/14/19,85.68841235,226.1627672,74.71189413,132.7160364
